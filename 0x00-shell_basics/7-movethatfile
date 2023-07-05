@@ -1,1 +1,2 @@
-#!/bin/bashmv betty /my_first_direcetory
+#!/bin/bash
+mv betty /my_first_direcetory
