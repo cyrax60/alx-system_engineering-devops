@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp | sort -d ;echo
+ls -ap1 | grep -v '/\.\?$' | tr '\n' ',' ; echo ""
